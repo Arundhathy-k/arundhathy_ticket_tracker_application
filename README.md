@@ -1,2 +1,2 @@
-Ticket Tracker Apllication Springboot project 
+Ticket Tracker Apllication Springboot 
 week 16 project
